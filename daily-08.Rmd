@@ -1,0 +1,12 @@
+---
+title: "daily-08"
+output: html_document
+---
+#name: Natasha Zizic 
+#date: 02/23/2025
+#purpose: Daily Exercise 8 - Joins and Pivots
+
+```{r}
+
+```
+
